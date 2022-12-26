@@ -1,0 +1,9 @@
+
+Raft is a concensus algorithm simplified from paxo.
+
+Concensus algorithm is used to replicate data/state as multiple machine. Having multiple machine to behave as one entity.
+
+Don't copy and paste this code base, you can use as hint. Be sure to know what you are doing. You can read Raft paper by a simple google search. 
+
+
+- Jerry 
